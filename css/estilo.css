@@ -1,8 +1,28 @@
 body{
 
-	background-color: blue;
-	
+	background-color: #C0C0C0;
+	margin-left: 07%;
+	margin-right: 07%;
+	font-family: 'Merienda', cursive;
 }
+h1 {
+	text-align: center;
+	color: 	#8B0000;
+}
+h2 {
+	color: 	#800000;
+}
+p{
+	font-size: 1.3em;
+	text-indent: 2em;
 
-
-
+}
+figure {
+	text-align: center;
+}
+img {
+	width: 70%;
+}
+.negrito {
+	font-weight: bold;
+}
